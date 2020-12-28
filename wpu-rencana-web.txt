@@ -2,5 +2,6 @@ Rencana WEB WPU
 JavaScript 
 *ES6
 *Framework Javascript
+Struktur Data Dasar
 PHP Framework
 Interview

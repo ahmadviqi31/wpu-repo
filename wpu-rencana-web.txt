@@ -1,7 +1,9 @@
 Rencana WEB WPU
 JavaScript 
-*ES6
-*Framework Javascript
-Struktur Data Dasar
+  *ES6
+  *Framework Javascript
+    ^Angular
+    ^React
 PHP Framework
+  ^LARAVEL
 Interview

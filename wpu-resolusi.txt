@@ -2,3 +2,5 @@ WPU Resolusi
 - Konsisten untuk pelajar PHP dalam seminggu 
 - Membuat aplikasi yang berguna secara umum 
 - Membuat forum diskusi
+- Membuat Mobile Aps
+- Kolaborasi dengan banyak Expert
